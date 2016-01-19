@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 #
 # Copyright (c) 2010 .SE (The Internet Infrastructure Foundation).
 #                    All rights reserved.
